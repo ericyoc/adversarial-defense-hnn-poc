@@ -12,7 +12,7 @@ To run the code, ensure you have the following dependencies installed:
 - torchattacks: 3.5.1
 - numpy: 1.23.5
 - tabulate: 0.9.0
-- cirq: (version based on your installation)
+- cirq: 1.3.0
 
 You can install the required packages using pip:
 

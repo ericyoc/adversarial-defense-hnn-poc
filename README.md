@@ -55,7 +55,7 @@ The rotation gates introduce single-qubit operations that can manipulate the sta
 
 The number of qubits in the quantum circuit is determined based on the output dimension of the model. The circuit is created dynamically based on the learned parameters `theta` and `phi`.
 
-![alt text](https://github.com/ericyoc/adversarial-defense-hnn/blob/main/qnn_circuit/qnn_circuit.jpg?raw=true)
+![hnn_quantum_circuit](https://github.com/ericyoc/adversarial-defense-hnn/blob/main/qnn_circuit/qnn_circuit.jpg?raw=true)
 
 ## Adversarial Attacks
 
@@ -90,7 +90,7 @@ The code evaluates the model's performance on clean data, under adversarial atta
 
 ## Results
 
-The code summarizes the model's performance in a tabular format and displays example misclassifications for each scenario (clean, no defense attack, and with defense attack). The results provide insights into the effectiveness of the adversarial training defense against the specified compounded white-box targeted attack.
+The code summarizes the model's performance in a tabular format and displays example misclassifications for each scenario (clean, no defense attack, and with defense attack). The results provide insights into the effectiveness of the adversarial training defense against the specified compounded white-box targeted attack [HNN Results](./adversarial-defense-hnn/tree/main/hnn_results).
 
 ## Acknowledgments
 

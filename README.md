@@ -90,7 +90,7 @@ The code evaluates the model's performance on clean data, under adversarial atta
 
 ## Results
 
-The code summarizes the model's performance in a tabular format and displays example misclassifications for each scenario (clean, no defense attack, and with defense attack). The results provide insights into the effectiveness of the adversarial training defense against the specified compounded white-box targeted attack [HNN Results](./adversarial-defense-hnn/tree/main/hnn_results).
+The code summarizes the model's performance in a tabular format and displays example misclassifications for each scenario (clean, no defense attack, and with defense attack). The results provide insights into the effectiveness of the adversarial training defense against the specified compounded white-box targeted attack [HNN Results](https://github.com/ericyoc/adversarial-defense-hnn/tree/main/hnn_results)).
 
 ## Acknowledgments
 

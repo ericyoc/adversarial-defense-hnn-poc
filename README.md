@@ -2,8 +2,17 @@
 
 This repository contains an implementation of a Classical-Quantum (or Hybrid) Neural Network (HNN) that combines a Quantum Neural Network (QNN) and a Convolutional Neural Network (CNN) for digit recognition on handwritten digits (e.g., MNIST, EMNIST Digits, etc.) datasets. The model is protected against compounded adversarial attacks using adversarial training.
 
-## Motivating Article
+## Motivating Article and Related Work
 West, Maxwell T, et al. “Benchmarking Adversarially Robust Quantum Machine Learning at Scale.” Physical Review Research, vol. 5, no. 2, 23 June 2023, doi: 10.1103/physrevresearch.5.023186.
+
+TorchAttacks
+https://adversarial-attacks-pytorch.readthedocs.io/en/latest/
+
+PyTorch Adversarial Example Generation
+https://pytorch.org/tutorials/beginner/fgsm_tutorial.html
+
+Adversarial-Attacks-PyTorch
+https://github.com/Harry24k/adversarial-attacks-pytorch
 
 ## Requirements
 

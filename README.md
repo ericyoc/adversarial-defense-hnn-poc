@@ -119,3 +119,7 @@ We would like to acknowledge the creators and contributors of these libraries fo
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+

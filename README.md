@@ -23,7 +23,7 @@ https://github.com/Harry24k/adversarial-attacks-pytorch
 | FGSM + CW        | 98.0%           | 20.0%           | 100.0%             |
 | FGSM + PGD       | 98.0%           | 20.0%           | 98.0%             |
 | CW + PGD         | 100.0%           | 89.0%           | 100.0%             |
-|                  | **MNIST: Original** | **MNIST: Adversarial Examples** | **MNIST: Combined (Original + Adversarial Examples)** |
+| **Dataset Used** | **MNIST: Original** | **MNIST: Original** | **MNIST: Combined (Original + Adversarial Examples)** |
 
 ## Requirements
 

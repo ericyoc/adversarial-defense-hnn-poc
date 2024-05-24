@@ -14,9 +14,9 @@ https://pytorch.org/tutorials/beginner/fgsm_tutorial.html
 Adversarial-Attacks-PyTorch
 https://github.com/Harry24k/adversarial-attacks-pytorch
 
-## Results
+## Results for HNN Model with MNIST Dataset
 
-### Adversarial Training Defense Mechanism for HNN Model with MNIST Dataset
+### Adversarial Training Defense Mechanism 
 
 | **Compounded Attack** | **Pre-Attack Accuracy** | **Post Attack Accuracy - No Defense** | **Post Attack Accuracy - with Defense** |
 |------------------|------------------|------------------|--------------------|

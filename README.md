@@ -18,7 +18,7 @@ https://github.com/Harry24k/adversarial-attacks-pytorch
 
 ### Adversarial Training Defense Mechanism 
 
-| **Compounded Attack** | **Pre-Attack Accuracy** | **Post Attack Accuracy - No Defense** | **Post Attack Accuracy - with Defense** |
+| **Compounded Attack** | **Pre-Attack Accuracy - No Defense** | **Post Attack Accuracy - No Defense** | **Post Attack Accuracy - with Defense** |
 |------------------|------------------|------------------|--------------------|
 | FGSM + CW        | 98.0%           | 20.0%           | 100.0%             |
 | FGSM + PGD       | 98.0%           | 20.0%           | 98.0%             |

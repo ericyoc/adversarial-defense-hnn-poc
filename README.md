@@ -14,6 +14,19 @@ https://pytorch.org/tutorials/beginner/fgsm_tutorial.html
 Adversarial-Attacks-PyTorch
 https://github.com/Harry24k/adversarial-attacks-pytorch
 
+## Results
+
+### Adversarial Training Defense Mechanism for HNN Model with MNIST Dataset
+
+|                  |                  |                  |                    |
+|------------------|------------------|------------------|--------------------|
+| **Compounded Attack**   | **Pre-Attack Accuracy** | **Post Attack Accuracy** | **Post Attack Defense Applied Accuracy** |
+|                   | **MNIST: Original** | **MNIST: Adversarial Examples** | **MNIST: Combined (Original + Adversarial Examples)** |
+| FGSM + CW        | 98.0%           | 20.0%           | 100.0%             |
+| FGSM + PGD       | 98.0%           | 20.0%           | 98.0%             |
+| CW + PGD         | 100.0%           | 89.0%           | 100.0%             |
+
+
 ## Requirements
 
 To run the code, ensure you have the following dependencies installed:
